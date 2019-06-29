@@ -51,8 +51,6 @@ int main(int argc, char *argv[])
     init_pair(COLOR_CYAN, COLOR_CYAN, COLOR_BLACK);                              
     init_pair(COLOR_WHITE, COLOR_WHITE, COLOR_BLACK); 
 
-    
-
     wchar_t in;
 
     do {
